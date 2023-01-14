@@ -1,0 +1,3 @@
+include::{snippets}/challenge/common/list/request-parameters.adoc[]
+
+include::{snippets}/challenge/common/list/response-fields.adoc[]
